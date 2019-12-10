@@ -17,11 +17,11 @@ The design of the board provides for the use of the following components. Other 
 
 All relevant data sheets can be found <a href="https://github.com/larslevity/ControlBoard/tree/master/Datenblaetter">here</a>.
 
-#ControlBoard Rev2
+# ControlBoard Rev2
 Compressed modular design for a stronger and more portable enclosure.
 ![Image of the ControlBoard](https://github.com/larslevity/ControlBoard/blob/master/CAD_R2/Screenshot2.PNG)
 
-#ControlBoard Rev0
+# ControlBoard Rev0
 Original Design with old proportional valve control system
 ![Image of the ControlBoard](https://github.com/larslevity/ControlBoard/blob/master/CAD/v2/00_v2_principle_solution2.PNG)
 
