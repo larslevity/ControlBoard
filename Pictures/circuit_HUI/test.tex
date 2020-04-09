@@ -1,0 +1,17 @@
+\documentclass[10pt]{standalone}
+\input{../tikzpic_packages.tex}
+
+\def\pneumaticcolor{blue!20}
+
+\begin{document}
+\begin{circuitikz}[
+european resistors
+]
+
+\foreach \x in {1,2,3}{
+	\pgfmathsetmacro{\localdist}{\x*2}
+	\draw (\x,0)--(\x,\localdist);
+}
+
+\end{circuitikz}
+\end{document}
